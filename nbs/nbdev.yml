@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-cards-tryout"
+  site-url: "https://daniilgaltsev.github.io/nbdev_cards_tryout"
+  description: "A repo for following nbdev tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/daniilgaltsev/nbdev_cards_tryout"
